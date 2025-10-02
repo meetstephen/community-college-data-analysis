@@ -18,4 +18,4 @@ This project is my final submission for the AWS AI & ML Scholars program. I acte
 
 ## View My Full Project Report
 
-You can view my full, detailed project report with all screenshots and visuals here: [A Visual Record of all Elements of my Work (PROJECT 1) (PDF)](https://raw.githubusercontent.com/meetstephen/community-college-data-analysis/49069e87cbca35e4baeaa39fc1b06735b8c15abf/PROJECT%201.pdf)
+You can view my full, detailed project report with all screenshots and visuals here: A visual record of all elements of my work(PROJECT 1)(PDF)(https://raw.githubusercontent.com/meetstephen/community-college-data-analysis/49069e87cbca35e4baeaa39fc1b06735b8c15abf/PROJECT%201.pdf)
