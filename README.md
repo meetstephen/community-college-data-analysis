@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This project is my final submission for the AWS AI & ML Scholars program. I acted as a data analyst for a fictional community college to uncover insights from their student data. The goal was to identify what drives a positive student experience and provide recommendations to the college board.
+This project is my final submission for the AWS AI & ML Scholars program. I acted as a data analyst for a fictional community college to uncover insights from their student data. The goal was to identify key drivers of student success and provide actionable recommendations to improve retention and outcomes.
 
 ## Technologies Used
 
@@ -18,4 +18,4 @@ This project is my final submission for the AWS AI & ML Scholars program. I acte
 
 ## View My Full Project Report
 
-You can view my full, detailed project report with all screenshots and visuals here: [A Visual Record of all Elements of my Work(PROJECT 1)[PDF]]
+You can view my full, detailed project report with all screenshots and visuals here: [A Visual Record of all Elements of my Work (PROJECT 1) (PDF)](https://raw.githubusercontent.com/meetstephen/community-college-data-analysis/49069e87cbca35e4baeaa39fc1b06735b8c15abf/PROJECT%201.pdf)
